@@ -1,6 +1,6 @@
 # schoollevel
 
-Faced with the drop in academic standards following the closure of schools, the Ministério da Educação (Portuguese Ministry of Education*) may have the idea of using data and AI to try and remedy the situation.
+> Faced with the drop in academic standards following the closure of schools, the Ministério da Educação (Portuguese Ministry of Education*) may have the idea of using data and AI to try and remedy the situation.
 
 The Ministry would like pedagogical advisors in each school to have a tool enabling them to prioritize which students to support.
 
