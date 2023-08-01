@@ -16,6 +16,3 @@ a high level of absenteeism
 alcohol consumption
 below-average weekly study time.
 ...
-Here's what such a dashboard might look like (with the top-right dots corresponding to the students you want to help most).
-
-Translated with www.DeepL.com/Translator (free version)
